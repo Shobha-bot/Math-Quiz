@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to bottom right, rgb(40, 182, 230), rgb(243, 84, 243));
+    background-size: cover;
+}
+
+button{
+    width: 50%;
+}
+
+.divInput{
+    background-color: rgb(192, 138, 241);
+    width: 350px;
+    border-radius: 10px;
+}
+
+#player2_score{
+    margin-top: 10px;
+}
+
+#output{
+    background-color: rgb(255, 179, 221);
+    width: 40%;
+    border-radius: 10px;
+    border-top-left-radius: 0px;
+}
